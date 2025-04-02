@@ -74,7 +74,6 @@ npm install
 1. Na pasta do projeto, crie um arquivo chamado `.env.local`
 2. Adicione as seguintes informações (substituindo pelos seus dados):
 
-```plaintext
 DB_HOST=localhost
 DB_USER=seu_usuario_mysql
 DB_PASSWORD=sua_senha_mysql
