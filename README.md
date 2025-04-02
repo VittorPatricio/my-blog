@@ -106,8 +106,3 @@ Você agora tem um blog funcionando em sua máquina! Aqui estão algumas informa
 - **Senha**: a senha que definimos para você (enviada separadamente)
 - Para criar novos posts, faça login e acesse a área de administração
 - Para visualizar posts, não é necessário login
-
-
-## 🆘 Precisa de Ajuda?
-
-Se encontrar algum problema durante a instalação, não hesite em entrar em contato pelo WhatsApp: +55 16 99788-2058
